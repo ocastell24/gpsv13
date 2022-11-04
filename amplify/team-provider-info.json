@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gpsv13-staging-31950-authRole",
+      "UnauthRoleArn": "arn:aws:iam::670391868519:role/amplify-gpsv13-staging-31950-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::670391868519:role/amplify-gpsv13-staging-31950-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-gpsv13-staging-31950-deployment",
+      "UnauthRoleName": "amplify-gpsv13-staging-31950-unauthRole",
+      "StackName": "amplify-gpsv13-staging-31950",
+      "StackId": "arn:aws:cloudformation:us-east-2:670391868519:stack/amplify-gpsv13-staging-31950/8b3f3480-5bef-11ed-adbc-02161d24b9f4",
+      "AmplifyAppId": "d2o8o0l6s6vq51"
+    },
+    "categories": {
+      "auth": {
+        "gpsv13": {}
+      }
+    }
+  }
+}
